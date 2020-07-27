@@ -1,5 +1,5 @@
-# Spring 2020 10405/10605 Course Project
-Welcome to the repo for the poject of 10405/10605, Spring 2020.
+# Predicting the Stock Market with Large Scale Reddit Comments Data 
+
 ## Datasets
 - [Complete Public Reddit Comments Corpus (150GB compressed)](https://archive.org/details/2015_reddit_comments_corpus)
 - [Huge Stock Market Dataset](https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs)
